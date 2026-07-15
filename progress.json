@@ -1,0 +1,121 @@
+{
+  "xp": 232,
+  "level": 3,
+  "words": {
+    "Angielski:thank you": {
+      "seen": 2,
+      "correct": 2,
+      "streak": 2
+    },
+    "Angielski:house": {
+      "seen": 1,
+      "correct": 1,
+      "streak": 1
+    },
+    "Angielski:fast": {
+      "seen": 1,
+      "correct": 1,
+      "streak": 1
+    },
+    "Angielski:beautiful": {
+      "seen": 1,
+      "correct": 1,
+      "streak": 1
+    },
+    "Angielski:goodbye": {
+      "seen": 1,
+      "correct": 1,
+      "streak": 1
+    },
+    "Angielski:book": {
+      "seen": 1,
+      "correct": 1,
+      "streak": 1
+    },
+    "Angielski:apple": {
+      "seen": 2,
+      "correct": 2,
+      "streak": 2
+    },
+    "Angielski:mountain": {
+      "seen": 2,
+      "correct": 1,
+      "streak": 1
+    },
+    "Angielski:coffee": {
+      "seen": 1,
+      "correct": 1,
+      "streak": 1
+    },
+    "Angielski:train station": {
+      "seen": 1,
+      "correct": 1,
+      "streak": 1
+    },
+    "Angielski:weather": {
+      "seen": 1,
+      "correct": 1,
+      "streak": 1
+    },
+    "Angielski:to eat": {
+      "seen": 1,
+      "correct": 1,
+      "streak": 1
+    },
+    "Angielski:car": {
+      "seen": 1,
+      "correct": 1,
+      "streak": 1
+    },
+    "Angielski:please": {
+      "seen": 1,
+      "correct": 1,
+      "streak": 1
+    },
+    "Angielski:water": {
+      "seen": 1,
+      "correct": 1,
+      "streak": 1
+    },
+    "Angielski:happy": {
+      "seen": 1,
+      "correct": 1,
+      "streak": 1
+    },
+    "Angielski:friend": {
+      "seen": 1,
+      "correct": 1,
+      "streak": 1
+    },
+    "Angielski:bread": {
+      "seen": 1,
+      "correct": 1,
+      "streak": 1
+    },
+    "Angielski:to work": {
+      "seen": 1,
+      "correct": 1,
+      "streak": 1
+    },
+    "Angielski:to run": {
+      "seen": 1,
+      "correct": 1,
+      "streak": 1
+    },
+    "Angielski:school": {
+      "seen": 1,
+      "correct": 1,
+      "streak": 1
+    }
+  },
+  "sessions": 4,
+  "last_played": "2026-07-15T07:58:00",
+  "streak": 0,
+  "unlocked": [
+    "first_steps",
+    "perfectionist"
+  ],
+  "animations": true,
+  "api_key": "",
+  "ai_model": "claude-haiku-4-5-20251001"
+}
